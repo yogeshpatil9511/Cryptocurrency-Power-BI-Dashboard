@@ -1,5 +1,4 @@
 # Cryptocurrency-Power-BI-Dashboard
-A dynamic Power BI dashboard to monitor cryptocurrency prices, market trends, and trading volumes.
 "Here’s a simple and interactive Cryptocurrency Dashboard built with Power BI. It tracks the sum of volumes, market caps, and price trends over the years. It’s designed to make it easy to visualize crypto data and get meaningful insights in no time. Perfect for anyone who wants a clear overview of the crypto market!
 
 "This Cryptocurrency Dashboard is clean, interactive, and packed with insightful data about the crypto market. Here's what it showcases:
